@@ -16,11 +16,11 @@ The model
 """
 class Step(BaseModel):
     action: Literal["goto","click","fill","wait_for","wait_url"]
-    selector: Optional[str] = None     # CSS/XPath 등
+    selector: Optional[str] = None
     url: Optional[str] = None
-    text: Optional[str] = None         # fill 텍스트
-    role: Optional[str] = None         # 접근성 롤 (button, link, textbox …)
-    name: Optional[str] = None         # 접근성 이름(정규식 가능)
+    text: Optional[str] = None
+    role: Optional[str] = None
+    name: Optional[str] = None
 
 """
 Plan executed by the server
@@ -71,7 +71,6 @@ Return a trimmed accessibility tree for the given URL.
 """
 @app.get("/mcp/describe_page")
 def describe_page(url: str = Query(...), depth: int = 2):
-    """현재 페이지의 접근성 트리 요약 반환"""
     with BrowserSession(headless=True) as s:
         s.page.goto(url, wait_until="domcontentloaded")
         snap = s.page.accessibility.snapshot()
