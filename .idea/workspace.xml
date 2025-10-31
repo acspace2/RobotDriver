@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94f4a77e-7a95-4f71-b170-d7064d0d8196" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Core/Session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/MCPServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/MiniAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Service/Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Service/ProductPrice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Site/AutomationExercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Site/Base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Site/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Util/Parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/Util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RobotDriver/plan.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="34mNop83jjvsmmsVl3PFPIWuAdy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.MCPServer.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.MiniAPI.executor": "Run",
+    "Python.ProductPrice.executor": "Run",
+    "Python.RobotDriver.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/seong/PycharmProjects/PythonProject2/RobotDriver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seong\PycharmProjects\PythonProject2\RobotDriver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seong\PycharmProjects\PythonProject2\RobotDriver" />
+      <recent name="C:\Users\seong\PycharmProjects\PythonProject2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94f4a77e-7a95-4f71-b170-d7064d0d8196" name="Changes" comment="" />
+      <created>1761814964375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761814964375</updated>
+      <workItem from="1761814965409" duration="9895000" />
+      <workItem from="1761868667771" duration="913000" />
+      <workItem from="1761872685486" duration="6624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject2$MCPServer.coverage" NAME="MCPServer Coverage Results" MODIFIED="1761816123922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RobotDriver" />
+    <SUITE FILE_PATH="coverage/PythonProject2$MiniAPI.coverage" NAME="MiniAPI Coverage Results" MODIFIED="1761816121217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RobotDriver" />
+    <SUITE FILE_PATH="coverage/PythonProject2$RobotDriver.coverage" NAME="RobotDriver Coverage Results" MODIFIED="1761825172866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RobotDriver" />
+    <SUITE FILE_PATH="coverage/PythonProject2$Main.coverage" NAME="Main Coverage Results" MODIFIED="1761827049828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RobotDriver" />
+    <SUITE FILE_PATH="coverage/PythonProject2$ProductPrice.coverage" NAME="ProductPrice Coverage Results" MODIFIED="1761821624522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RobotDriver" />
+  </component>
+</project>

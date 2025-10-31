@@ -1,0 +1,13 @@
+{
+  "headless": true,
+  "steps": [
+    {"action":"goto","url":"https://automationexercise.com/login"},
+    {"action":"fill","role":"textbox","name":"Email Address","text":"you@example.com"},
+    {"action":"fill","role":"textbox","name":"Password","text":"yourpass"},
+    {"action":"click","selector":"button[data-qa='login-button']"},
+    {"action":"goto","url":"https://automationexercise.com/products"},
+    {"action":"fill","selector":"#search_product","text":"Blue Top"},
+    {"action":"click","selector":"#submit_search"},
+    {"action":"wait_for","selector":".features_items"}
+  ]
+}
